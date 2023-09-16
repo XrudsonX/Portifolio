@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+    h2 {
+        @apply text-corTexto text-2xl sm:text-3xl font-bold text-center mt-10 mb-6 sm:mb-10 sm:mt-20;
+    }
+}
+
+@layer components {
+    .btn-link {
+        @apply bg-borda border border-verde py-1 px-2 rounded-full text-corTexto cursor-pointer hover:scale-110 font-medium hover:delay-200 text-sm
+    }
+}
