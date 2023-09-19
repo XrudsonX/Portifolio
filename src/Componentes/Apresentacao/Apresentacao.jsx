@@ -7,7 +7,7 @@ const Apresentacao = () => {
                     <h4 className="text-cinza">Desenvolvedor Front-End</h4>
                     <a href="https://drive.google.com/file/d/1hrO-QqXBZGGyb385YczgsaIZtSBrlJLv/view" target="_blank" className="bg-verde py-1 px-2 rounded-sm text-fundo md:py-2 md:px-4 font-medium text-md md:text-xl hover:animate-pulse" >Download CV</a>
                 </div>
-                <img src="../public/imagens/ilustracao.svg" alt="ilustração de um progamador" className="hidden md:block w-[300px]" />
+                <img src="/imagens/ilustracao.svg" alt="ilustração de um progamador" className="hidden md:block w-[300px]" />
             </div>
             <div className=" self-center max-w-lg ">
                 <a name="sobremim" className="link">Sobre mim</a>
