@@ -12,9 +12,9 @@ const App =  ()=> {
         <Header/>
         <Apresentacao/>
         <InfoList/>
-        <h2>Projetos</h2>
+        <a name="projetos" className="link">Projetos</a>
         <ListaProjeto/>
-        <h2>Minhas skills</h2>
+        <a name="skills" className="link">Minhas skills</a>
         <ListaSkills/>
       </div>
     </div>
