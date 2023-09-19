@@ -8,6 +8,7 @@ const ListaSkills = () => {
             <Skills imagem={"/imagens/icoJavascript.svg"}/>
             <Skills imagem={"/imagens/icoReact.svg"}/>
             <Skills imagem={"/imagens/icoTailwind.svg"}/>
+            <Skills imagem={"/imagens/ilustracao.svg"}/>
         </div>
     )
 }  
