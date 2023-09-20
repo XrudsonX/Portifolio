@@ -11,7 +11,7 @@ const Apresentacao = () => {
             </div>
             <div className=" self-center max-w-lg ">
                 <a name="sobremim" className="link">Sobre mim</a>
-                <p className="text-cinza text-center">Atualmente, estou no 4º semestre da minha formação de análise e desenvolvimento de sistemas, com diversos cursos e projetos concluídos. Estou ansioso para ingressar no mercado e aplicar todo o conhecimento adquirido até aqui, sempre buscando oportunidades para aprender a crescer.</p>
+                <p className="text-cinza text-center">Atualmente, estou no 4º semestre da minha formação de análise e desenvolvimento de sistemas, com diversos cursos e projetos concluídos. Estou ansioso para ingressar no mercado e aplicar todo o conhecimento adquirido até aqui, sempre buscando oportunidades para aprender e crescer.</p>
             </div>
         </div>
     )
