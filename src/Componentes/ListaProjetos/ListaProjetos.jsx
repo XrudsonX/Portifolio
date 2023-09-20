@@ -5,7 +5,6 @@ import Projeto from "../Projeto/Projeto"
 const ListaProjeto = () => {
     const [tela, setTela] = useState(window.innerWidth);
     window.addEventListener('resize', ()=> {setTela(window.innerWidth)})
-    console.log(tela)
 
     const projetos = [
         {
