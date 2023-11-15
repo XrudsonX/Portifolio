@@ -8,6 +8,14 @@ const ListaProjeto = () => {
 
     const projetos = [
         {
+            "titulo" : "FindFlix",
+            "imagem" : "https://i.imgur.com/NfGhkXr.png",
+            "imagemMobile" : "https://i.imgur.com/Ax58oW5.png",
+            "tecnologias" : "React JS e Tailwind Css",
+            "urlProjeto" : "https://find-flix-six.vercel.app/",
+            "urlRepositorio" : "https://github.com/XrudsonX/FindFllix"
+        },
+        {
             "titulo" : "Bar count",
             "imagem" : "https://i.imgur.com/CvCW7Da.png",
             "imagemMobile" : "https://i.imgur.com/0RBCTNO.png",
@@ -54,7 +62,8 @@ const ListaProjeto = () => {
             "tecnologias" : "Html, Css e JavaScript",
             "urlProjeto" : "https://validacao-js.vercel.app/pages/abrir-conta-form.html",
             "urlRepositorio" : "https://github.com/XrudsonX/Validacao_JS"
-        }
+        },
+        
     ]
     return(
         <div className="flex flex-col items-center gap-6 sm:gap-12 sm:flex-row flex-wrap sm:justify-center">
